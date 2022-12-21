@@ -7,7 +7,7 @@ public class Main {
 
     private void run3() {
         String name="box";
-        double prise = 5.90;
+        double prise = 768.969;
         System.out.printf("%s 's prise is %.2f",name,prise);
     }
 
