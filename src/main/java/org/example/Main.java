@@ -2,7 +2,13 @@ package org.example;
 
 public class Main {
     public static void main(String[] args) {
-        new Main().run1();
+        new Main().run2();
+    }
+
+    private void run2() {
+        String name="box";
+        double prise = 5.90;
+        System.out.printf("%d's prise is %d",name,prise);
     }
 
     private void run1() {
