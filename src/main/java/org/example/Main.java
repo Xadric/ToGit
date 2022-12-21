@@ -12,7 +12,7 @@ public class Main {
     private void run2() {
         String name="box";
         double prise = 5.90;
-        System.out.printf("%d's prise is %d",name,prise);
+        System.out.printf("%s's prise is %.2f",name,prise);
     }
 
     private void run1() {
