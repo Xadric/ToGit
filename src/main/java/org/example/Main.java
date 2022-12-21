@@ -2,7 +2,11 @@ package org.example;
 
 public class Main {
     public static void main(String[] args) {
-        new Main().run2();
+        new Main().run4();
+    }
+
+    private void run4() {
+        System.out.println(4);
     }
 
     private void run2() {
